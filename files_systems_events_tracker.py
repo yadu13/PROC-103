@@ -39,5 +39,5 @@ try:
         print("running...")
 except KeyboardInterrupt:
     print('stopped')
-
+observer.stop()
     
